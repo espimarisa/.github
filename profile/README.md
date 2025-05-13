@@ -14,7 +14,7 @@ For more about me, go check out my [website][espi.me].
 - [Email][espi-email] - `contact <at> espi <dot> me`
 
 [espi-discord]: https://discord.com/users/647269760782041133 "Discord"
-[espi-email]: mailto:contact@espi.me?subject=session-rethinkdb-ts "Email"
+[espi-email]: mailto:contact@espi.me?subject=hiii "Email"
 [espi-matrix]: https://matrix.to/#/@espimarisa:matrix.org "Matrix"
 [espi-telegram]: https://t.me/espimarisa "Telegram"
 [espi.me]: https://espi.me "espi.me"
